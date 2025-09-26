@@ -1,0 +1,7 @@
+name = "ascendai"
+main = "src/index.js"
+compatibility_date = "2025-08-01"
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "ascendai"
