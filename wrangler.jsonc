@@ -13,7 +13,7 @@
 	"r2_buckets": [
 		{
 		"binding": "MY_BUCKET",
-		"bucket_name": "kinetixai"
+		"bucket_name": "ascendai"
 		}
 	]	
   	/**
